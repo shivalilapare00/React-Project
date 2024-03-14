@@ -1,0 +1,27 @@
+h1{
+    color: black;
+    padding: 5px 12px;
+    font-size: 20px;
+    border: 3px solid white;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.pro{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.ps{
+    color: black;
+    padding: 5px 12px;
+    font-size: 20px;
+    border: 3px solid white;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
